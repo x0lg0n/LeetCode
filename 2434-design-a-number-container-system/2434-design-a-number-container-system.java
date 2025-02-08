@@ -1,19 +1,27 @@
+import java.util.*;
+
 class NumberContainers {
-    Map<Integer,Integer> m;
-    Map<Integer,PriorityQueue<Integer>> d;
+    private Map<Integer, PriorityQueue<Integer>> res;
+    private Map<Integer, Integer> index_val;
+
     public NumberContainers() {
-        m = new HashMap<>();
-        d = new HashMap<>();
+        res = new HashMap<>();
+        index_val = new HashMap<>();
     }
-    public void change(int i, int n) {
-        if(m.containsKey(i) && m.get(i)==n)return;
-        m.put(i,n);
-        d.computeIfAbsent(n,k->new PriorityQueue<>()).offer(i);
+    
+    public void change(int index, int number) {
+        if (index_val.containsKey(index)) {
+            int prevNum = index_val.get(index);
+            if (prevNum == number) return;
+            res.get(prevNum).remove(index);
+        }
+
+        res.computeIfAbsent(number, k -> new PriorityQueue<>()).offer(index);
+        index_val.put(index, number);
     }
-    public int find(int n) {
-        if(!d.containsKey(n)) return -1;
-        PriorityQueue<Integer> pq = d.get(n);
-        while(!pq.isEmpty() && m.get(pq.peek())!=n) pq.poll();
-        return pq.isEmpty()? -1 : pq.peek();
+    
+    public int find(int number) {
+        PriorityQueue<Integer> pq = res.getOrDefault(number, new PriorityQueue<>());
+        return pq.isEmpty() ? -1 : pq.peek();
     }
 }
