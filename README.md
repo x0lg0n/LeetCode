@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/x0lg0n/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/x0lg0n/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/x0lg0n/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -42,6 +43,7 @@
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/x0lg0n/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -55,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Stack
 |  |
@@ -65,4 +68,12 @@
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/x0lg0n/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
