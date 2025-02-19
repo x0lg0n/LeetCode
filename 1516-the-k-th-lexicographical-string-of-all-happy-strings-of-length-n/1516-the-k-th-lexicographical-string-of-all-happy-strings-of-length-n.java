@@ -1,21 +1,26 @@
 class Solution {
-    int n2;
-    public String getHappyString(int n, int k) {
-        n2 = n;
-        return dfs(new StringBuilder(), n, k);
-    }
-    public String dfs(StringBuilder prefix, int n, int k){
-        if (n == 0)
-            return prefix.toString();
-        for (char c = 'a'; c <= 'c'; c++) {
-            if (prefix.length() > 0 && c == prefix.charAt(prefix.length() - 1))
-                continue;
-            int cnt = (int) Math.pow(2, n2 - prefix.length() - 1);
-            if (cnt >= k)
-                return dfs(prefix.append(c), n - 1, k);
-            else
-                k -= cnt;
+    private String ans = "";
+
+    private void solve(int len, int[] cnt, int n, char[] chars, StringBuilder s) {
+        if (len == n) {
+            if (--cnt[0] == 0) {
+                ans = s.toString();
+            }
+            return;
         }
-        return "";
+        for (char c : chars) {
+            if (len == 0 || s.charAt(len - 1) != c) {
+                s.append(c);
+                solve(len + 1, cnt, n, chars, s);
+                s.deleteCharAt(s.length() - 1);
+                if (cnt[0] == 0) return; // Stop recursion early
+            }
+        }
+    }
+
+    public String getHappyString(int n, int k) {
+        ans = "";
+        solve(0, new int[]{k}, n, new char[]{'a', 'b', 'c'}, new StringBuilder());
+        return ans;
     }
 }
