@@ -16,6 +16,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/x0lg0n/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/x0lg0n/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/x0lg0n/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/x0lg0n/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/x0lg0n/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/x0lg0n/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -31,6 +32,7 @@
 | [2434-design-a-number-container-system](https://github.com/x0lg0n/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/x0lg0n/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3227-find-missing-and-repeated-values](https://github.com/x0lg0n/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/x0lg0n/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -83,6 +85,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/x0lg0n/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/x0lg0n/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/x0lg0n/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -150,4 +153,8 @@
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/x0lg0n/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/x0lg0n/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/x0lg0n/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
