@@ -1,18 +1,20 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int len = s.length();
-
-        // Track last position of a, b, c 
-        int[] lastPos = { -1, -1, -1 };
-        int cnt = 0;
-
-        for (int r = 0; r < len; r++) {
-            // Update last position of currrent character 
-            lastPos[s.charAt(r) - 'a' ] = r;
-
-            cnt += 1 + Math.min(lastPos[0], Math.min(lastPos[1], lastPos[2]));
+        char[] ch = s.toCharArray();
+        int[] abc = new int[3];
+        for(int i = 0; i < abc.length; i++){
+            abc[i] = -1;
         }
-
-        return cnt;
+        int count = 0, right = 0;
+        while(right < ch.length){
+            abc[ch[right] - 'a'] = right;
+            int minIndex = Integer.MAX_VALUE;
+            for(int i = 0; i < 3; i++){
+                minIndex = Math.min(minIndex, abc[i]);
+            }
+            count += (minIndex + 1);
+            right++;
+        }
+        return count;
     }
 }
