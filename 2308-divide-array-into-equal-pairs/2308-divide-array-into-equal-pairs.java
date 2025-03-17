@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution {
     public boolean divideArray(int[] nums) {
         Arrays.sort(nums);
