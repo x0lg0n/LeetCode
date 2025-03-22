@@ -1,54 +1,43 @@
+import java.util.*;
+
 class Solution {
+    private Map<Integer, List<Integer>> graph = new HashMap<>();
 
     public int countCompleteComponents(int n, int[][] edges) {
-        // Adjacency lists for each vertex
-        List<Integer>[] graph = new ArrayList[n];
-
-        // Initialize empty adjacency lists
-        for (int vertex = 0; vertex < n; vertex++) {
-            graph[vertex] = new ArrayList<>();
-        }
-
-        // Build adjacency lists from edges
         for (int[] edge : edges) {
-            graph[edge[0]].add(edge[1]);
-            graph[edge[1]].add(edge[0]);
+            graph.computeIfAbsent(edge[0], k -> new ArrayList<>()).add(edge[1]);
+            graph.computeIfAbsent(edge[1], k -> new ArrayList<>()).add(edge[0]);
         }
 
-        int completeCount = 0;
         Set<Integer> visited = new HashSet<>();
+        int count = 0;
 
-        // Process each unvisited vertex
-        for (int vertex = 0; vertex < n; vertex++) {
-            if (visited.contains(vertex)) continue;
-
-            // arr[0] = vertices count, arr[1] = total edges count
-            int[] componentInfo = new int[2];
-            dfs(vertex, graph, visited, componentInfo);
-
-            // Check if component is complete - edges should be vertices * (vertices-1)
-            if (componentInfo[0] * (componentInfo[0] - 1) == componentInfo[1]) {
-                completeCount++;
+        for (int i = 0; i < n; i++) {
+            if (!visited.contains(i)) {
+                Set<Integer> component = new HashSet<>();
+                dfs(i, component, visited);
+                if (isCompleteComponent(component)) count++;
             }
         }
-        return completeCount;
+        return count;
     }
 
-    private void dfs(
-        int curr,
-        List<Integer>[] graph,
-        Set<Integer> visited,
-        int[] componentInfo
-    ) {
-        visited.add(curr);
-        componentInfo[0]++; // Increment vertex count
-        componentInfo[1] += graph[curr].size(); // Add edges from current vertex
-
-        // Explore unvisited neighbors
-        for (int next : graph[curr]) {
-            if (!visited.contains(next)) {
-                dfs(next, graph, visited, componentInfo);
+    private void dfs(int node, Set<Integer> component, Set<Integer> visited) {
+        component.add(node);
+        visited.add(node);
+        for (int neighbor : graph.getOrDefault(node, new ArrayList<>())) {
+            if (!visited.contains(neighbor)) {
+                dfs(neighbor, component, visited);
             }
         }
+    }
+
+    private boolean isCompleteComponent(Set<Integer> component) {
+        for (int node : component) {
+            if (graph.getOrDefault(node, new ArrayList<>()).size() != component.size() - 1) {
+                return false;
+            }
+        }
+        return true;
     }
 }
