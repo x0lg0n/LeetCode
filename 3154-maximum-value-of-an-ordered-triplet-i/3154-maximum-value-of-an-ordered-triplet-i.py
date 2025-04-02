@@ -1,13 +1,8 @@
-class Solution:
-    def maximumTripletValue(self, nums: List[int]) -> int:
-        res = 0 
-        N = len(nums)
-        left = nums[0]
-        for j in range(1, N):
-            if nums[j] > left:
-                left = nums[j]
-            for k  in range(j + 1, N):
-                res = max(res, (left - nums[j]) * nums[k])
-
-        return res 
-        
+class Solution(object):
+    def maximumTripletValue(self, nums):
+        maxTriplet, maxElement, maxDiff = 0, 0, 0
+        for num in nums:
+            maxTriplet = max(maxTriplet, maxDiff * num)
+            maxDiff = max(maxDiff, maxElement - num)
+            maxElement = max(maxElement, num)
+        return maxTriplet
