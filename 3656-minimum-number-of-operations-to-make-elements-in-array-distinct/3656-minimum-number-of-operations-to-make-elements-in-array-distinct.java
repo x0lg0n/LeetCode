@@ -1,10 +1,14 @@
+import java.util.*;
+
 class Solution {
     public int minimumOperations(int[] nums) {
-        int[] mpp = new int[101];
-        for (int i  = nums.length - 1; i >= 0; i--) {
-            if (++mpp[nums[i]] > 1) {
-                return (i + 3) / 3;
+        int n = nums.length;
+        Set<Integer> seen = new HashSet<>();
+        for (int i = n - 1; i >= 0; i--) {
+            if (seen.contains(nums[i])) {
+                return i / 3 + 1;
             }
+            seen.add(nums[i]);
         }
         return 0;
     }
