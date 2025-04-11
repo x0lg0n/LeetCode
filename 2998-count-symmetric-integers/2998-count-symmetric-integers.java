@@ -1,9 +1,5 @@
 class Solution {
     public int countSymmetricIntegers(int low, int high) {
-        
-    }
-}class Solution {
-    public int countSymmetricIntegers(int low, int high) {
         int count = 0; // \U0001f365 Shadow Clone counter
 
         for (int num = low; num <= high; num++) {
