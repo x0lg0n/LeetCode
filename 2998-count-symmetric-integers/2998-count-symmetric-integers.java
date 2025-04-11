@@ -1,18 +1,24 @@
-class Solution {
 
+class Solution {
     public int countSymmetricIntegers(int low, int high) {
-        int res = 0;
-        for (int a = low; a <= high; ++a) {
-            if (a < 100 && a % 11 == 0) {
-                res++;
-            } else if (1000 <= a && a < 10000) {
-                int left = a / 1000 + (a % 1000) / 100;
-                int right = (a % 100) / 10 + (a % 10);
-                if (left == right) {
-                    res++;
-                }
+        int count = 0;
+        for (int num = low; num <= high; num++) {
+            String s = Integer.toString(num);
+            int len = s.length();
+            if (len % 2 != 0) continue;
+
+            int mid = len / 2;
+            int leftSum = 0, rightSum = 0;
+
+            for (int i = 0; i < mid; i++) {
+                leftSum += s.charAt(i) - '0';
+                rightSum += s.charAt(i + mid) - '0';
+            }
+
+            if (leftSum == rightSum) {
+                count++;
             }
         }
-        return res;
+        return count;
     }
 }
