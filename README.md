@@ -17,6 +17,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/x0lg0n/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/x0lg0n/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/x0lg0n/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/x0lg0n/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/x0lg0n/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/x0lg0n/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/x0lg0n/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/x0lg0n/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -174,6 +176,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/x0lg0n/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/x0lg0n/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
@@ -244,6 +247,7 @@
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/x0lg0n/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/x0lg0n/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/x0lg0n/LeetCode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/x0lg0n/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -258,6 +262,7 @@
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/x0lg0n/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
@@ -294,4 +299,8 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/x0lg0n/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/x0lg0n/LeetCode/tree/master/2998-count-symmetric-integers) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
