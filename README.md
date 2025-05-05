@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/x0lg0n/LeetCode/tree/master/0035-search-insert-position) |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/x0lg0n/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/x0lg0n/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -254,6 +255,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/x0lg0n/LeetCode/tree/master/0035-search-insert-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/x0lg0n/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/x0lg0n/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
