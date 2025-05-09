@@ -1,63 +1,35 @@
-import java.util.*;
-
-public class Solution {
-    static final int MOD = 1_000_000_007;
-    int[] fact, inv, invFact;
-
-    void precompute(int n) {
-        fact = new int[n + 1];
-        inv = new int[n + 1];
-        invFact = new int[n + 1];
+class Solution {
+    private static final int mod = 1_000_000_007;
+    private long[] fact, inv, invFact;
+    private void precompute(int n) {
+        fact = new long[n+1];
+        inv = new long[n+1];
+        invFact = new long[n+1];
         fact[0] = inv[0] = invFact[0] = 1;
-
-        for (int i = 1; i <= n; i++) {
-            fact[i] = (int) ((1L * fact[i - 1] * i) % MOD);
-        }
-
+        for (int i = 1; i <= n; i++) fact[i] = fact[i-1] * i % mod;
         inv[1] = 1;
-        for (int i = 2; i <= n; i++) {
-            inv[i] = MOD - (int) ((1L * (MOD / i) * inv[MOD % i]) % MOD);
-        }
-
-        for (int i = 1; i <= n; i++) {
-            invFact[i] = (int) ((1L * invFact[i - 1] * inv[i]) % MOD);
-        }
+        for (int i = 2; i <= n; i++) inv[i] = mod - (mod / i) * inv[mod % i] % mod;
+        for (int i = 1; i <= n; i++) invFact[i] = invFact[i-1] * inv[i] % mod;
     }
-
     public int countBalancedPermutations(String num) {
-        int n = num.length();
-        int sum = 0;
-        for (char c : num.toCharArray()) {
-            sum += c - '0';
-        }
-        if (sum % 2 == 1) return 0;
-
+        int n = num.length(), sum = 0;
+        for (char c : num.toCharArray()) sum += c - '0';
+        if ((sum & 1) == 1) return 0;
         precompute(n);
-        int halfSum = sum / 2;
-        int halfLen = n / 2;
-
-        int[][] dp = new int[halfSum + 1][halfLen + 1];
+        int halfSum = sum / 2, halfLen = n / 2;
+        int[][] dp = new int[halfSum+1][halfLen+1];
         dp[0][0] = 1;
-
         int[] digits = new int[10];
-
-        for (int i = 0; i < n; i++) {
-            int d = num.charAt(i) - '0';
+        for (char c : num.toCharArray()) {
+            int d = c - '0';
             digits[d]++;
-            for (int s = halfSum; s >= d; s--) {
-                for (int l = halfLen; l >= 1; l--) {
-                    dp[s][l] = (dp[s][l] + dp[s - d][l - 1]) % MOD;
-                }
-            }
+            for (int i = halfSum; i >= d; i--)
+                for (int j = halfLen; j > 0; j--)
+                    dp[i][j] = (dp[i][j] + dp[i-d][j-1]) % mod;
         }
-
-        int res = dp[halfSum][halfLen];
-        res = (int) (((1L * res * fact[halfLen]) % MOD * fact[n - halfLen]) % MOD);
-
-        for (int cnt : digits) {
-            res = (int) ((1L * res * invFact[cnt]) % MOD);
-        }
-
-        return res;
+        long res = dp[halfSum][halfLen];
+        res = res * fact[halfLen] % mod * fact[n-halfLen] % mod;
+        for (int cnt : digits) res = res * invFact[cnt] % mod;
+        return (int)res;
     }
 }
