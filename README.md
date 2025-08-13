@@ -18,6 +18,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/x0lg0n/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/x0lg0n/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1791-richest-customer-wealth](https://github.com/x0lg0n/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/x0lg0n/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/x0lg0n/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/x0lg0n/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -294,6 +295,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/x0lg0n/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/x0lg0n/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1791-richest-customer-wealth](https://github.com/x0lg0n/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/x0lg0n/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/x0lg0n/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
