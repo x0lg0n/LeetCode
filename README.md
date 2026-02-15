@@ -99,6 +99,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
 | [0868-push-dominoes](https://github.com/x0lg0n/LeetCode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/x0lg0n/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/x0lg0n/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -137,6 +138,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/x0lg0n/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/x0lg0n/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/x0lg0n/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -165,6 +167,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/x0lg0n/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -339,6 +342,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/x0lg0n/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/x0lg0n/LeetCode/tree/master/2478-longest-nice-subarray) |
