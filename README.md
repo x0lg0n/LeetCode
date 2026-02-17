@@ -226,6 +226,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/x0lg0n/LeetCode/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/x0lg0n/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/x0lg0n/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/x0lg0n/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -343,6 +344,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
+| [0401-binary-watch](https://github.com/x0lg0n/LeetCode/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/x0lg0n/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/x0lg0n/LeetCode/tree/master/2478-longest-nice-subarray) |
