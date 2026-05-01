@@ -71,6 +71,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/x0lg0n/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/x0lg0n/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3719-longest-balanced-subarray-i](https://github.com/x0lg0n/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -312,6 +313,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/x0lg0n/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/x0lg0n/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/x0lg0n/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -333,6 +335,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/x0lg0n/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/x0lg0n/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/x0lg0n/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
