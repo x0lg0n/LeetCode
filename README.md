@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/x0lg0n/LeetCode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/x0lg0n/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/x0lg0n/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/x0lg0n/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/x0lg0n/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/x0lg0n/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/x0lg0n/LeetCode/tree/master/0396-rotate-function) |
 | [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/x0lg0n/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -298,6 +300,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/x0lg0n/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/x0lg0n/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/x0lg0n/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/x0lg0n/LeetCode/tree/master/0868-push-dominoes) |
