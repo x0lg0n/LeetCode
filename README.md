@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
+| [0796-rotate-string](https://github.com/x0lg0n/LeetCode/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/x0lg0n/LeetCode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/x0lg0n/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/x0lg0n/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -452,4 +453,8 @@
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/x0lg0n/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/x0lg0n/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
