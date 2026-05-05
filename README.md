@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/x0lg0n/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/x0lg0n/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/x0lg0n/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/x0lg0n/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/x0lg0n/LeetCode/tree/master/0396-rotate-function) |
@@ -176,6 +177,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/x0lg0n/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/x0lg0n/LeetCode/tree/master/0396-rotate-function) |
@@ -328,6 +330,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/x0lg0n/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/x0lg0n/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/x0lg0n/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
