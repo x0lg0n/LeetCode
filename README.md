@@ -23,6 +23,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/x0lg0n/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1791-richest-customer-wealth](https://github.com/x0lg0n/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/x0lg0n/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1861-rotating-the-box](https://github.com/x0lg0n/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/x0lg0n/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/x0lg0n/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/x0lg0n/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -325,6 +326,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/x0lg0n/LeetCode/tree/master/0061-rotate-list) |
 | [0868-push-dominoes](https://github.com/x0lg0n/LeetCode/tree/master/0868-push-dominoes) |
+| [1861-rotating-the-box](https://github.com/x0lg0n/LeetCode/tree/master/1861-rotating-the-box) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/x0lg0n/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/x0lg0n/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/x0lg0n/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -336,6 +338,7 @@
 | [0945-snakes-and-ladders](https://github.com/x0lg0n/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1791-richest-customer-wealth](https://github.com/x0lg0n/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1861-rotating-the-box](https://github.com/x0lg0n/LeetCode/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/x0lg0n/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
