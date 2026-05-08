@@ -67,6 +67,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/x0lg0n/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/x0lg0n/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/x0lg0n/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/x0lg0n/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/x0lg0n/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3639-zero-array-transformation-i](https://github.com/x0lg0n/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/x0lg0n/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -101,6 +102,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/x0lg0n/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/x0lg0n/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/x0lg0n/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/x0lg0n/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/x0lg0n/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/x0lg0n/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3719-longest-balanced-subarray-i](https://github.com/x0lg0n/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -200,6 +202,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/x0lg0n/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/x0lg0n/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/x0lg0n/LeetCode/tree/master/3321-type-of-triangle) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/x0lg0n/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/x0lg0n/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/x0lg0n/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/x0lg0n/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -288,6 +291,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/x0lg0n/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/x0lg0n/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/x0lg0n/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/x0lg0n/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/x0lg0n/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/x0lg0n/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
@@ -354,6 +358,7 @@
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/x0lg0n/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/x0lg0n/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/x0lg0n/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
 |  |
 | ------- |
