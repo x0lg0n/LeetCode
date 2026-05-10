@@ -45,6 +45,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/x0lg0n/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/x0lg0n/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/x0lg0n/LeetCode/tree/master/2690-house-robber-iv) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/x0lg0n/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/x0lg0n/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/x0lg0n/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/x0lg0n/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -318,6 +319,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/x0lg0n/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/x0lg0n/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/x0lg0n/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/x0lg0n/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/x0lg0n/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/x0lg0n/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/x0lg0n/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
