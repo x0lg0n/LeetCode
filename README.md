@@ -16,6 +16,7 @@
 | [0945-snakes-and-ladders](https://github.com/x0lg0n/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/x0lg0n/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/x0lg0n/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1306-jump-game-iii](https://github.com/x0lg0n/LeetCode/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/x0lg0n/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/x0lg0n/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/x0lg0n/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1306-jump-game-iii](https://github.com/x0lg0n/LeetCode/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/x0lg0n/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/x0lg0n/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/x0lg0n/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1306-jump-game-iii](https://github.com/x0lg0n/LeetCode/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/x0lg0n/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/x0lg0n/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
