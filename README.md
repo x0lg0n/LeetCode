@@ -18,6 +18,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/x0lg0n/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1306-jump-game-iii](https://github.com/x0lg0n/LeetCode/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/x0lg0n/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1345-jump-game-iv](https://github.com/x0lg0n/LeetCode/tree/master/1345-jump-game-iv) |
 | [1364-tuple-with-same-product](https://github.com/x0lg0n/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/x0lg0n/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -90,6 +91,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/x0lg0n/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/x0lg0n/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/x0lg0n/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1345-jump-game-iv](https://github.com/x0lg0n/LeetCode/tree/master/1345-jump-game-iv) |
 | [1364-tuple-with-same-product](https://github.com/x0lg0n/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/x0lg0n/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/x0lg0n/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -299,6 +301,7 @@
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/x0lg0n/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1306-jump-game-iii](https://github.com/x0lg0n/LeetCode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/x0lg0n/LeetCode/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/x0lg0n/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/x0lg0n/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
