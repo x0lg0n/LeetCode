@@ -50,6 +50,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/x0lg0n/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/x0lg0n/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/x0lg0n/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/x0lg0n/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2690-house-robber-iv](https://github.com/x0lg0n/LeetCode/tree/master/2690-house-robber-iv) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/x0lg0n/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/x0lg0n/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -107,6 +108,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/x0lg0n/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2540-minimum-common-value](https://github.com/x0lg0n/LeetCode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/x0lg0n/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/x0lg0n/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/x0lg0n/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/x0lg0n/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -410,6 +412,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/x0lg0n/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/x0lg0n/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/x0lg0n/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/x0lg0n/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/x0lg0n/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/x0lg0n/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
