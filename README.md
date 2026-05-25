@@ -135,6 +135,7 @@
 | [1170-shortest-common-supersequence](https://github.com/x0lg0n/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/x0lg0n/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/x0lg0n/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1871-jump-game-vii](https://github.com/x0lg0n/LeetCode/tree/master/1871-jump-game-vii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/x0lg0n/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/x0lg0n/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/x0lg0n/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -262,6 +263,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/x0lg0n/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1871-jump-game-vii](https://github.com/x0lg0n/LeetCode/tree/master/1871-jump-game-vii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/x0lg0n/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/x0lg0n/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/x0lg0n/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -343,6 +345,7 @@
 | [1170-shortest-common-supersequence](https://github.com/x0lg0n/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1340-jump-game-v](https://github.com/x0lg0n/LeetCode/tree/master/1340-jump-game-v) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/x0lg0n/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1871-jump-game-vii](https://github.com/x0lg0n/LeetCode/tree/master/1871-jump-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/x0lg0n/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/x0lg0n/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/x0lg0n/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -393,6 +396,7 @@
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/x0lg0n/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1871-jump-game-vii](https://github.com/x0lg0n/LeetCode/tree/master/1871-jump-game-vii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/x0lg0n/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/x0lg0n/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/x0lg0n/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
