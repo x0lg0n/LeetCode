@@ -37,6 +37,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/x0lg0n/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/x0lg0n/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/x0lg0n/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/x0lg0n/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -243,6 +244,7 @@
 | [1340-jump-game-v](https://github.com/x0lg0n/LeetCode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/x0lg0n/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/x0lg0n/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/x0lg0n/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -288,6 +290,7 @@
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/x0lg0n/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/x0lg0n/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/x0lg0n/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/x0lg0n/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/x0lg0n/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
