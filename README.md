@@ -83,6 +83,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/x0lg0n/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/x0lg0n/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/x0lg0n/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/x0lg0n/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/x0lg0n/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3639-zero-array-transformation-i](https://github.com/x0lg0n/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/x0lg0n/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -255,6 +256,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/x0lg0n/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3321-type-of-triangle](https://github.com/x0lg0n/LeetCode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/x0lg0n/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/x0lg0n/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/x0lg0n/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3647-zero-array-transformation-iii](https://github.com/x0lg0n/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/x0lg0n/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -296,6 +298,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/x0lg0n/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/x0lg0n/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/x0lg0n/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/x0lg0n/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/x0lg0n/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
@@ -374,6 +377,7 @@
 | [2540-minimum-common-value](https://github.com/x0lg0n/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/x0lg0n/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/x0lg0n/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/x0lg0n/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -420,6 +424,7 @@
 | [2540-minimum-common-value](https://github.com/x0lg0n/LeetCode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/x0lg0n/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/x0lg0n/LeetCode/tree/master/2690-house-robber-iv) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/x0lg0n/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-zero-array-transformation-ii](https://github.com/x0lg0n/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
