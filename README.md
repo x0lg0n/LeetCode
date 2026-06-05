@@ -232,6 +232,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/x0lg0n/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/x0lg0n/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/x0lg0n/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/x0lg0n/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
 |  |
 | ------- |
@@ -369,6 +370,7 @@
 | [3660-jump-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/x0lg0n/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/x0lg0n/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Two Pointers
 |  |
 | ------- |
