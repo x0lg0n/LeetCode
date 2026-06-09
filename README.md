@@ -94,6 +94,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/x0lg0n/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/x0lg0n/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3660-jump-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/x0lg0n/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/x0lg0n/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
@@ -308,6 +309,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/x0lg0n/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/x0lg0n/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/x0lg0n/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/x0lg0n/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Tree
 |  |
 | ------- |
