@@ -101,6 +101,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/x0lg0n/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/x0lg0n/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/x0lg0n/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/x0lg0n/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/x0lg0n/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -139,6 +140,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/x0lg0n/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/x0lg0n/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3719-longest-balanced-subarray-i](https://github.com/x0lg0n/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/x0lg0n/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/x0lg0n/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/x0lg0n/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/x0lg0n/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -311,6 +314,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/x0lg0n/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/x0lg0n/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/x0lg0n/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/x0lg0n/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -386,6 +390,7 @@
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/x0lg0n/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3719-longest-balanced-subarray-i](https://github.com/x0lg0n/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/x0lg0n/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -565,6 +570,7 @@
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/x0lg0n/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/x0lg0n/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/x0lg0n/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -583,4 +589,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/x0lg0n/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/x0lg0n/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
