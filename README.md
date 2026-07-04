@@ -368,6 +368,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/x0lg0n/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/x0lg0n/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/x0lg0n/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/x0lg0n/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/x0lg0n/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/x0lg0n/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -381,6 +382,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/x0lg0n/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/x0lg0n/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/x0lg0n/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/x0lg0n/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/x0lg0n/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/x0lg0n/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -569,6 +571,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/x0lg0n/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/x0lg0n/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
 |  |
@@ -586,6 +589,7 @@
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/x0lg0n/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/x0lg0n/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String Matching
 |  |
