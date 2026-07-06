@@ -17,6 +17,7 @@
 | [0945-snakes-and-ladders](https://github.com/x0lg0n/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/x0lg0n/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/x0lg0n/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1288-remove-covered-intervals](https://github.com/x0lg0n/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/x0lg0n/LeetCode/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/x0lg0n/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/x0lg0n/LeetCode/tree/master/1340-jump-game-v) |
@@ -280,6 +281,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1288-remove-covered-intervals](https://github.com/x0lg0n/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/x0lg0n/LeetCode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/x0lg0n/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/x0lg0n/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
