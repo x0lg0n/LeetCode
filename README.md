@@ -92,6 +92,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/x0lg0n/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/x0lg0n/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/x0lg0n/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/x0lg0n/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/x0lg0n/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/x0lg0n/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/x0lg0n/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -185,6 +186,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/x0lg0n/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/x0lg0n/LeetCode/tree/master/3447-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/x0lg0n/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/x0lg0n/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/x0lg0n/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/x0lg0n/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/x0lg0n/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -529,6 +531,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/x0lg0n/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/x0lg0n/LeetCode/tree/master/2690-house-robber-iv) |
 | [3312-sorted-gcd-pair-queries](https://github.com/x0lg0n/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/x0lg0n/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/x0lg0n/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/x0lg0n/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/x0lg0n/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -628,6 +631,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/x0lg0n/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/x0lg0n/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/x0lg0n/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/x0lg0n/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
