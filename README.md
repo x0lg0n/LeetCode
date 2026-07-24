@@ -94,6 +94,7 @@
 | [3483-alternating-groups-ii](https://github.com/x0lg0n/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/x0lg0n/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/x0lg0n/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/x0lg0n/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/x0lg0n/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/x0lg0n/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/x0lg0n/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -280,6 +281,7 @@
 | [3321-type-of-triangle](https://github.com/x0lg0n/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/x0lg0n/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/x0lg0n/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/x0lg0n/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/x0lg0n/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/x0lg0n/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/x0lg0n/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -552,6 +554,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/x0lg0n/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/x0lg0n/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/x0lg0n/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/x0lg0n/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/x0lg0n/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/x0lg0n/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Queue
@@ -609,6 +612,7 @@
 | [2998-count-symmetric-integers](https://github.com/x0lg0n/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/x0lg0n/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/x0lg0n/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/x0lg0n/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/x0lg0n/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Queue
 |  |
