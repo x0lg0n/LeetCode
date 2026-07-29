@@ -152,6 +152,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/x0lg0n/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/x0lg0n/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/x0lg0n/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/x0lg0n/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/x0lg0n/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/x0lg0n/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/x0lg0n/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -191,6 +192,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/x0lg0n/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/x0lg0n/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/x0lg0n/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/x0lg0n/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/x0lg0n/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/x0lg0n/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/x0lg0n/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -212,6 +214,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/x0lg0n/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/x0lg0n/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/x0lg0n/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/x0lg0n/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/x0lg0n/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
@@ -285,6 +288,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/x0lg0n/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/x0lg0n/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/x0lg0n/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/x0lg0n/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/x0lg0n/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/x0lg0n/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/x0lg0n/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -607,6 +611,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/x0lg0n/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/x0lg0n/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/x0lg0n/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/x0lg0n/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
