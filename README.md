@@ -13,6 +13,7 @@
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/x0lg0n/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/x0lg0n/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/x0lg0n/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/x0lg0n/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/x0lg0n/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/x0lg0n/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -263,6 +264,7 @@
 | [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/x0lg0n/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/x0lg0n/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/x0lg0n/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/x0lg0n/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -451,6 +453,7 @@
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/x0lg0n/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/x0lg0n/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/x0lg0n/LeetCode/tree/master/0486-predict-the-winner) |
 | [0806-domino-and-tromino-tiling](https://github.com/x0lg0n/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/x0lg0n/LeetCode/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/x0lg0n/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -680,4 +683,12 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/x0lg0n/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/x0lg0n/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/x0lg0n/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/x0lg0n/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
