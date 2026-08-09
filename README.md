@@ -19,6 +19,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/x0lg0n/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/x0lg0n/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/x0lg0n/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1140-stone-game-ii](https://github.com/x0lg0n/LeetCode/tree/master/1140-stone-game-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/x0lg0n/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1260-shift-2d-grid](https://github.com/x0lg0n/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/x0lg0n/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -270,6 +271,7 @@
 | [0486-predict-the-winner](https://github.com/x0lg0n/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/x0lg0n/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/x0lg0n/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/x0lg0n/LeetCode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/x0lg0n/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/x0lg0n/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -354,6 +356,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/x0lg0n/LeetCode/tree/master/1140-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/x0lg0n/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/x0lg0n/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -467,6 +470,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/x0lg0n/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/x0lg0n/LeetCode/tree/master/0868-push-dominoes) |
 | [0877-stone-game](https://github.com/x0lg0n/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/x0lg0n/LeetCode/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/x0lg0n/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1340-jump-game-v](https://github.com/x0lg0n/LeetCode/tree/master/1340-jump-game-v) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/x0lg0n/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -707,4 +711,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/x0lg0n/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/x0lg0n/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/x0lg0n/LeetCode/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/x0lg0n/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/x0lg0n/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
