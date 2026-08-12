@@ -73,6 +73,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/x0lg0n/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/x0lg0n/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/x0lg0n/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/x0lg0n/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/x0lg0n/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/x0lg0n/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/x0lg0n/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -151,6 +152,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/x0lg0n/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/x0lg0n/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/x0lg0n/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/x0lg0n/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/x0lg0n/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/x0lg0n/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/x0lg0n/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -553,6 +555,7 @@
 | [1871-jump-game-vii](https://github.com/x0lg0n/LeetCode/tree/master/1871-jump-game-vii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/x0lg0n/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/x0lg0n/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/x0lg0n/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/x0lg0n/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/x0lg0n/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/x0lg0n/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
