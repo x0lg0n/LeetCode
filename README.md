@@ -45,6 +45,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/x0lg0n/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/x0lg0n/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/x0lg0n/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/x0lg0n/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/x0lg0n/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -223,6 +224,7 @@
 | [1364-tuple-with-same-product](https://github.com/x0lg0n/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/x0lg0n/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/x0lg0n/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/2029-stone-game-ix) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/x0lg0n/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -290,6 +292,7 @@
 | [1840-maximum-building-height](https://github.com/x0lg0n/LeetCode/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/x0lg0n/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/x0lg0n/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/x0lg0n/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -403,6 +406,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/x0lg0n/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/x0lg0n/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/x0lg0n/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/x0lg0n/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/x0lg0n/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -730,20 +734,24 @@
 | [0877-stone-game](https://github.com/x0lg0n/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/x0lg0n/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/x0lg0n/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/x0lg0n/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/x0lg0n/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/x0lg0n/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/x0lg0n/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/x0lg0n/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
