@@ -32,6 +32,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/x0lg0n/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1563-stone-game-v](https://github.com/x0lg0n/LeetCode/tree/master/1563-stone-game-v) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/x0lg0n/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/x0lg0n/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1732-find-the-highest-altitude](https://github.com/x0lg0n/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -287,6 +288,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/x0lg0n/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1477-product-of-the-last-k-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-stone-game-iv](https://github.com/x0lg0n/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/x0lg0n/LeetCode/tree/master/1563-stone-game-v) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/x0lg0n/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/x0lg0n/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/x0lg0n/LeetCode/tree/master/1840-maximum-building-height) |
@@ -490,6 +492,7 @@
 | [1170-shortest-common-supersequence](https://github.com/x0lg0n/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1340-jump-game-v](https://github.com/x0lg0n/LeetCode/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/x0lg0n/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/x0lg0n/LeetCode/tree/master/1563-stone-game-v) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/x0lg0n/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/x0lg0n/LeetCode/tree/master/1871-jump-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/x0lg0n/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -734,6 +737,7 @@
 | [0877-stone-game](https://github.com/x0lg0n/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/x0lg0n/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/x0lg0n/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/x0lg0n/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
