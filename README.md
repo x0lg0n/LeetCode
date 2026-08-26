@@ -197,6 +197,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/x0lg0n/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/x0lg0n/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/x0lg0n/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/x0lg0n/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/x0lg0n/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/x0lg0n/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/x0lg0n/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -575,6 +576,7 @@
 | [1871-jump-game-vii](https://github.com/x0lg0n/LeetCode/tree/master/1871-jump-game-vii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/x0lg0n/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/x0lg0n/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/x0lg0n/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/x0lg0n/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/x0lg0n/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/x0lg0n/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
