@@ -218,6 +218,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/x0lg0n/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/x0lg0n/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/x0lg0n/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/x0lg0n/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/x0lg0n/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
@@ -538,6 +539,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/x0lg0n/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/x0lg0n/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/x0lg0n/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/x0lg0n/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/x0lg0n/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -679,6 +681,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/x0lg0n/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/x0lg0n/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/x0lg0n/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/x0lg0n/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/x0lg0n/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Queue
 |  |
