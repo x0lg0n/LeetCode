@@ -49,6 +49,7 @@
 | [2029-stone-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/x0lg0n/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/x0lg0n/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2107-find-unique-binary-string](https://github.com/x0lg0n/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/x0lg0n/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/x0lg0n/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -419,6 +420,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/x0lg0n/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/x0lg0n/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/x0lg0n/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/x0lg0n/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/x0lg0n/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
