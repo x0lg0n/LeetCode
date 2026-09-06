@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/x0lg0n/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0796-rotate-string](https://github.com/x0lg0n/LeetCode/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/x0lg0n/LeetCode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/x0lg0n/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -502,6 +503,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/x0lg0n/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/x0lg0n/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/x0lg0n/LeetCode/tree/master/0416-partition-equal-subset-sum) |
