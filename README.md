@@ -453,6 +453,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/x0lg0n/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/x0lg0n/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/x0lg0n/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/x0lg0n/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/x0lg0n/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/x0lg0n/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/x0lg0n/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -463,6 +464,7 @@
 | [1306-jump-game-iii](https://github.com/x0lg0n/LeetCode/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/x0lg0n/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/x0lg0n/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/x0lg0n/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/x0lg0n/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/x0lg0n/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/x0lg0n/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -496,6 +498,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/x0lg0n/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/x0lg0n/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/x0lg0n/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/x0lg0n/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
 | ------- |
