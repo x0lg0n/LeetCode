@@ -99,6 +99,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/x0lg0n/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/x0lg0n/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/x0lg0n/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/x0lg0n/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3429-special-array-i](https://github.com/x0lg0n/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/x0lg0n/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/x0lg0n/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -380,6 +381,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/x0lg0n/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/x0lg0n/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3321-type-of-triangle](https://github.com/x0lg0n/LeetCode/tree/master/3321-type-of-triangle) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/x0lg0n/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3430-count-days-without-meetings](https://github.com/x0lg0n/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/x0lg0n/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/x0lg0n/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -538,6 +540,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/x0lg0n/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/x0lg0n/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/x0lg0n/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/x0lg0n/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/x0lg0n/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/x0lg0n/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/x0lg0n/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -624,6 +627,7 @@
 | [2690-house-robber-iv](https://github.com/x0lg0n/LeetCode/tree/master/2690-house-robber-iv) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/x0lg0n/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/x0lg0n/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/x0lg0n/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/x0lg0n/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/x0lg0n/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/x0lg0n/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
