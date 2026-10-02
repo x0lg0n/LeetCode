@@ -197,6 +197,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/x0lg0n/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0796-rotate-string](https://github.com/x0lg0n/LeetCode/tree/master/0796-rotate-string) |
@@ -443,6 +444,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/x0lg0n/LeetCode/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/x0lg0n/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/x0lg0n/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -540,6 +542,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/x0lg0n/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/x0lg0n/LeetCode/tree/master/0396-rotate-function) |
@@ -856,6 +859,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/x0lg0n/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
