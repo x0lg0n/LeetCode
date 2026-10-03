@@ -198,6 +198,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/x0lg0n/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0796-rotate-string](https://github.com/x0lg0n/LeetCode/tree/master/0796-rotate-string) |
@@ -372,6 +373,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/x0lg0n/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/x0lg0n/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -543,6 +545,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/x0lg0n/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0368-largest-divisible-subset](https://github.com/x0lg0n/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/x0lg0n/LeetCode/tree/master/0396-rotate-function) |
@@ -860,6 +863,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/x0lg0n/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
