@@ -201,6 +201,7 @@
 | [0032-longest-valid-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/x0lg0n/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/x0lg0n/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0796-rotate-string](https://github.com/x0lg0n/LeetCode/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/x0lg0n/LeetCode/tree/master/0868-push-dominoes) |
 | [0940-distinct-subsequences-ii](https://github.com/x0lg0n/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -447,6 +448,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/x0lg0n/LeetCode/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/x0lg0n/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/x0lg0n/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -511,6 +513,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/x0lg0n/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0945-snakes-and-ladders](https://github.com/x0lg0n/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1306-jump-game-iii](https://github.com/x0lg0n/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/x0lg0n/LeetCode/tree/master/1345-jump-game-iv) |
