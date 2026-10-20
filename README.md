@@ -143,6 +143,7 @@
 | [3838-weighted-word-mapping](https://github.com/x0lg0n/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/x0lg0n/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/x0lg0n/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/x0lg0n/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/x0lg0n/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/x0lg0n/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -379,6 +380,7 @@
 | [3870-count-commas-in-range](https://github.com/x0lg0n/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/x0lg0n/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/x0lg0n/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/x0lg0n/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
 |  |
 | ------- |
@@ -427,6 +429,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/x0lg0n/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/x0lg0n/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/x0lg0n/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/x0lg0n/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Data Stream
 |  |
 | ------- |
@@ -778,6 +781,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/x0lg0n/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/x0lg0n/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/x0lg0n/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/x0lg0n/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Monotonic Queue
 |  |
 | ------- |
