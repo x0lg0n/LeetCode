@@ -49,6 +49,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/x0lg0n/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/x0lg0n/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/x0lg0n/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1882-process-tasks-using-servers](https://github.com/x0lg0n/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/x0lg0n/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/x0lg0n/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/x0lg0n/LeetCode/tree/master/2029-stone-game-ix) |
@@ -307,6 +308,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/x0lg0n/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2434-design-a-number-container-system](https://github.com/x0lg0n/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/x0lg0n/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/x0lg0n/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
