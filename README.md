@@ -109,6 +109,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/x0lg0n/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/x0lg0n/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/x0lg0n/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/x0lg0n/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3429-special-array-i](https://github.com/x0lg0n/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/x0lg0n/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/x0lg0n/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -405,6 +406,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/x0lg0n/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/x0lg0n/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/x0lg0n/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/x0lg0n/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3447-clear-digits](https://github.com/x0lg0n/LeetCode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
@@ -687,6 +689,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/x0lg0n/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/x0lg0n/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/x0lg0n/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/x0lg0n/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/x0lg0n/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/x0lg0n/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/x0lg0n/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -740,6 +743,7 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/x0lg0n/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/x0lg0n/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
@@ -777,6 +781,7 @@
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/x0lg0n/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/x0lg0n/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Combinatorics
 |  |
 | ------- |
@@ -805,6 +810,7 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/x0lg0n/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Memoization
 |  |
 | ------- |
@@ -830,6 +836,7 @@
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/x0lg0n/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/x0lg0n/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/x0lg0n/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/x0lg0n/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/x0lg0n/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/x0lg0n/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
