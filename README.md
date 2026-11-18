@@ -241,6 +241,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/x0lg0n/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/x0lg0n/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/x0lg0n/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/x0lg0n/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/x0lg0n/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/x0lg0n/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/x0lg0n/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
