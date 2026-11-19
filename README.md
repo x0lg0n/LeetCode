@@ -76,6 +76,7 @@
 | [2540-minimum-common-value](https://github.com/x0lg0n/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/x0lg0n/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/x0lg0n/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/x0lg0n/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/x0lg0n/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/x0lg0n/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/x0lg0n/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -428,6 +429,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/x0lg0n/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/x0lg0n/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/x0lg0n/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/x0lg0n/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/x0lg0n/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2784-check-if-array-is-good](https://github.com/x0lg0n/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/x0lg0n/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -503,6 +505,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/x0lg0n/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/x0lg0n/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/x0lg0n/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/x0lg0n/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/x0lg0n/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3001-apply-operations-to-maximize-score](https://github.com/x0lg0n/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/x0lg0n/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
